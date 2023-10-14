@@ -55,5 +55,6 @@ Empower your HR team with actionable insights to make informed decisions about e
 ### Conclusion:
 
 The HR Analytics Dashboard is your gateway to a more engaged, motivated, and productive workforce. Leverage the power of data to shape a workplace culture that attracts and retains top talent.
-![image](https://github.com/Samayamy/HR-Analytics-of-a-company/assets/53617164/21f631b8-deee-467e-92ce-58885be80e98)
+![HR Analytics Dashboard](https://github.com/Samayamy/HR-Analytics-of-a-company/assets/53617164/980ac287-160e-49c7-9b54-69c519275870)
+
 
